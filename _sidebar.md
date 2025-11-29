@@ -1,1 +1,2 @@
-- [How to Create Pack](how_to_create_language_pack.md)
+- [How to Create Language Pack](how_to_create_language_pack.md)
+- [How to add Language Pack to List](how_to_add_language_pack_to_list.md)
