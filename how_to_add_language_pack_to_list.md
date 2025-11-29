@@ -4,7 +4,7 @@
 
 ### 1.Prepare a download link ###
 
-It is recommended to create a zip file and upload it to Google Drive / OneDrive, so that players can preview the contents before downloading, ensuring no files other than those necessary for the Language Pack have been added.
+It is recommended to create a zip file and upload it to Google Drive / OneDrive (you can provide a sharing link to a folder so that you can update the language pack without having to change the link in this list), so that players can preview the contents before downloading, ensuring no files other than those necessary for the Language Pack have been added.
 
 ### 2.Go to GitHub to submit a Pull Request ###
 
