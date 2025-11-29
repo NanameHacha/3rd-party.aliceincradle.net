@@ -4,7 +4,7 @@
 > Note that language packs for `Japanese`, `English`, `Simplified Chinese`, `Traditional Chinese`, and `Korean` cannot be added to this list.
 
 > [!IMPORTANT]
-> ⚠️Attention: If you are going to translate the game to a currently unsupported language, We urge you to use the original Japanese as the base and not the English version.
+> If you are going to translate the game to a currently unsupported language, We urge you to use the original Japanese as the base and not the English version.
 > Our English localization uses a lot of slang and colloquial metaphors and text is often moved around to help the flow of dialogue and/or make things more clear since the two languages are so vastly different.
 > You run the same risks as "generation loss" if you translate from the English version.
 
