@@ -1,1 +1,1 @@
-- [How to Create Pack](#)
+- [How to Create Pack](how_to_create_language_pack.md)
