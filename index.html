@@ -36,6 +36,30 @@
         noData: 'Not Found',
         depth: 6,
       },
+      'flexible-alerts': {
+        note: {
+          label: "Note"
+        },
+        tip: {
+          label: "Tip"
+        },
+        warning: {
+          label: "Warning"
+        },
+        attention: {
+          label: "Attention"
+        },
+        important: {
+          label: 'Important',
+          icon: 'icon-important',
+          className: 'important'
+        },
+        typeMappings: {
+          info: 'note',
+          danger: 'attention',
+          caution: 'attention'
+        }
+      },
 
       plugins: [
         EditOnGithubPlugin.create(
