@@ -1,5 +1,7 @@
 ## How to add language pack to list ##
 
+**Note that language packs for `Japanese`, `English`, `Simplified Chinese`, `Traditional Chinese`, and `Korean` cannot be added to this list.**
+
 ### 1.Prepare a download link ###
 
 It is recommended to create a zip file and upload it to Google Drive / OneDrive, so that players can preview the contents before downloading, ensuring no files other than those necessary for the Language Pack have been added.
