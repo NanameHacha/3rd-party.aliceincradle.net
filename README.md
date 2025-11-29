@@ -6,3 +6,4 @@ Note: The language packs listed here have not undergone any review. All work is 
 
 | Language | Download | Translator |
 | --- | --- | --- |
+| Russian | In Progress | Discord@evgenius23145 |
