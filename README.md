@@ -5,6 +5,6 @@ A Content List featuring language packs created by third-party translators. Thes
 > [!NOTE]
 > The language packs listed here have not undergone any review. All work is solely done by the translators, and the Alice in Cradle official team takes no responsibility for any content. Additionally, the language packs should only contain several `.txt` format text files and one `.png` format image file. They do not include any executable files. Never run any unfamiliar executable files to avoid malware infection.
 
-| Language | Download | Translator |
+| Language | Download Link | Translator |
 | --- | --- | --- |
 | Russian | In Progress | Discord@evgenius23145 |
