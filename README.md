@@ -8,3 +8,4 @@ A Content List featuring language packs created by third-party translators. Thes
 | Language | Download Link | Translator |
 | --- | --- | --- |
 | Russian | In Progress | Discord@evgenius23145 |
+| Vietnamese | [Download](https://discord.com/channels/973550788695687168/1002485324607389706/1540335206878285844) | Discord@caothang_baka |
