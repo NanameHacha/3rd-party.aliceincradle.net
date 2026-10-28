@@ -8,5 +8,5 @@ A Content List featuring language packs created by third-party translators. Thes
 | Language | Info Link | Download | Translator(Discord) |
 | --- | --- | --- | --- |
 | Russian | In Progress | In Progress | @evgenius23145 |
-| Russian | [Info](https://discord.com/channels/973550788695687168/1564836799329603674) | Go Info for More | @xuhowi |
-| Vietnamese | [Info](https://discord.com/channels/973550788695687168/1547206106965876737) | [Google Drive](https://drive.google.com/drive/folders/1NpfRTOHR5Sudt_he2vzJhfUP4n5GQPBY) | @caothang_baka |
+| Russian | [Info](https://discord.com/channels/973550788695687168/1564879587442294854) | Go Info for More | @xuhowi |
+| Vietnamese | [Info](https://discord.com/channels/973550788695687168/1564872839792959619) | [Google Drive](https://drive.google.com/drive/folders/1NpfRTOHR5Sudt_he2vzJhfUP4n5GQPBY) | @caothang_baka |
